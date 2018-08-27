@@ -3,15 +3,15 @@
 string = "I LOVE YOU GRANDMA!" 
 def speak_to_grandma(string)
   if string == "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU TOO PUMPKIN!"
+    "I LOVE YOU TOO PUMPKIN!"
   elsif string == "Hi Nana, how are you?"
-    puts "HUH?! SPEAK UP, SONNY!"
+    "HUH?! SPEAK UP, SONNY!"
   elsif string == "Hi!"
-    puts "HUH?! SPEAK UP, SONNY!"
+     "HUH?! SPEAK UP, SONNY!"
   elsif string == "WHAT DID YOU EAT TODAY?"
-    puts "NO, NOT SINCE 1938!"
+   s "NO, NOT SINCE 1938!"
   else string == "WHAT?"
-    puts "NO, NOT SINCE 1938!"
+    "NO, NOT SINCE 1938!"
   
 end
 end
